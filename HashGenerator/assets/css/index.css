@@ -1,0 +1,80 @@
+﻿
+
+body {
+    width: 100%;
+    color: white;
+    background-color: black;
+}
+
+
+.drop-down-container {
+
+    display: flex;
+    column-gap: 10px;
+    justify-content: center;
+    
+}
+
+
+.drop-down-list {
+
+    width: 150px;
+    text-align: center;
+}
+
+.grid-container {
+    display: flex;
+    flex-direction: row;
+    align-content: stretch;
+    justify-content: space-evenly;
+    width: 100%;
+ 
+    
+}
+
+
+
+.hash-input-container,
+.hash-output-container {
+    text-align: center;
+    flex: 6 6 6;
+    width: 400px;
+}
+
+
+.hash-input-textbox,
+.hash-output-textbox {
+
+    width: 100%;
+    resize: none;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 3px;
+}
+
+.arrow-and-button-container {
+    flex: 2 2 2;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    justify-content: center;
+    
+  
+    align-items: center;
+}
+
+
+.arrow-image {
+    width: 150px;
+    flex: 1 1 1;
+}
+
+
+.generate-button {
+
+    flex: 1 1 1;
+}
+
+
