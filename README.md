@@ -10,4 +10,4 @@ A simple full-stack application that generates hashes based on the text entered 
    **Unit Testing:** MSTestv2
 
 
-## For more information on hashes:## <a href="https://en.wikipedia.org/wiki/Hash_function">https://en.wikipedia.org/wiki/Hash_function</a>
+** For more information on hashes:** <a href="https://en.wikipedia.org/wiki/Hash_function">https://en.wikipedia.org/wiki/Hash_function</a>
