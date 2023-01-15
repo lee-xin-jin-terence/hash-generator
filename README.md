@@ -7,7 +7,7 @@ A simple full-stack application that generates hashes based on the text entered 
 ## Skills:
    **Back-end:** ASP.NET Web Forms, C# (.NET), Object-oriented Programming (OOP) <br/><br/>
    **Front-end:** HTML, CSS, Javascript, jQuery, Bootstrap<br/><br/>
-   **Unit Testing:** MSTestv2
+   **Unit Testing:** MSTestv2 <br/><br/><br/>
 
 
 **For more information on hashes:** <a href="https://en.wikipedia.org/wiki/Hash_function">https://en.wikipedia.org/wiki/Hash_function</a>
