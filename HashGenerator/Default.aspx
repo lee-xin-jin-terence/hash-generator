@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <h1>Online Hash Function By Terence Lee
+    <h1 class="mb-5">Online Hash Function By Terence Lee
     </h1>
 
 
@@ -42,7 +42,7 @@
                    
             <asp:Image             
                 runat="server"
-                ImageUrl="~/assets/images/Sideways_Arrow_Icon.svg.png"
+                ImageUrl="~/assets/images/right-arrow.png"
                       
                 CssClass="arrow-image" />
 
