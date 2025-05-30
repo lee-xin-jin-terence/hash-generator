@@ -1,4 +1,4 @@
-# HashGenerator
+# Hash Generator Web App
 
 A simple full-stack application that generates hashes based on the text entered by user.
 
